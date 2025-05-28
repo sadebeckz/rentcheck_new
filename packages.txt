@@ -1,3 +1,5 @@
 python3-dev
 git-lfs
 build-essential
+build-essential
+python3-dev
